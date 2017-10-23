@@ -1,1 +1,1 @@
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/19656151/31908773-4246da22-b838-11e7-8508-29ba99213b93.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/19656151/31908887-a0f1e940-b838-11e7-9227-ad7e909a9a0c.gif)
