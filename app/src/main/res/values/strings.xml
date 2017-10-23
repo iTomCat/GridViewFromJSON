@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DynamicallyAddedGridLayout</string>
+    <string name="delete_item">Delete Item?</string>
+    <string name="delete_ok">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="image">Image</string>
+    <string name="item_name">Item Name</string>
+    <string name="enter_name">Name</string>
+
+</resources>

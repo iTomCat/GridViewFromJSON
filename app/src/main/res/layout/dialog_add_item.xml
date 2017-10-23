@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/item_name"
+        android:id="@+id/textView"
+        android:layout_marginTop="22dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginStart="27dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginEnd="25dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:ellipsize="end"
+        android:hint="@string/enter_name"
+        android:id="@+id/item_name"
+        android:inputType="textCapWords" />
+
+    <TextView
+        android:text="@string/choose_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_marginLeft="27dp"
+        android:layout_marginRight="27dp"
+        android:layout_marginTop="25dp"
+        android:gravity="center_horizontal" />
+
+    <ImageView
+        android:background="@drawable/circle"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        android:clickable="true"
+        android:id="@+id/color_circle"
+        android:contentDescription="@string/image"/>
+</LinearLayout>
