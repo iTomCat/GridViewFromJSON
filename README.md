@@ -1,5 +1,5 @@
 # Dynamic adding items to a GridView List<br>
-that are saved in JSON.
+#that are saved in JSON.
 An exemplary program that allows to dynamically add items to a list <br>
 containing name and background color. <br>
 Items are displayed in the GridView list. <br>
